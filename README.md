@@ -1,30 +1,30 @@
 
 # Weather App 🌤️
 
-Este é um aplicativo de clima simples desenvolvido com React JS e Vite. O aplicativo permite que os usuários insiram o nome de uma cidade e obtenham informações climáticas em tempo real, como temperatura, condições climáticas, umidade e velocidade do vento. Os dados são obtidos da API OpenWeatherMap.
+This is a simple weather application developed with React JS and Vite. The app allows users to enter the name of a city and obtain real-time weather information such as temperature, weather conditions, humidity, and wind speed. The data is fetched from the OpenWeatherMap API.
 
 
 
-## Demonstração
+## Demo
 
-Você pode acessar a demonstração ao vivo do aplicativo aqui: https://stephanie-marcula.github.io/WeatherApp-React-Vite/
+You can access the live demo of the application: [WeatherApp-React-Vite](https://stephanie-marcula.github.io/WeatherApp-React-Vite/)
 
-## Funcionalidades
+## Features
 
-- **Pesquisa de Clima:** Insira o nome de uma cidade, estado ou país para obter as informações climáticas atuais.
-- **Informações Detalhadas:** Exibe a temperatura, condições climáticas, umidade e velocidade do vento.
-- **Integração com API:** Utiliza a API gratuita OpenWeatherMap para obter dados precisos e atualizados.
-## Tecnologias Utilizadas
+- **Weather Search:** Enter the name of a city, state, or country to get the current weather information.
+- **Detailed Information:** Displays temperature, weather conditions, humidity, and wind speed.
+- **API Integration:** Uses the free OpenWeatherMap API to obtain accurate and up-to-date data.
+## Technologies
 
-- **ReactJS:** Biblioteca JavaScript para criação de interfaces de usuário.
-- **Vite:** Ferramenta de desenvolvimento que oferece um ambiente de desenvolvimento rápido e eficiente.
-- **API OpenWeatherMap:** Serviço de API para obter dados climáticos em tempo real.
-## Licença
+- **ReactJS:** JavaScript library for building user interfaces.
+- **Vite:** Development tool that provides a fast and efficient development environment.
+- **API OpenWeatherMap:** API service for retrieving real-time weather data.
+## License
 
-Este projeto está licenciado sob a MIT License.
-## Contato
+This project is licensed under the MIT License.
+## Contact
 
-Para mais informações ou dúvidas, entre em contato:
+For more information or questions, please contact:
 
 **Email:** stephanie.cucolo@gmail.com
 
